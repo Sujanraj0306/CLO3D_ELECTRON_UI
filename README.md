@@ -20,5 +20,3 @@ npm start
 ```
 
 
-# CLO3D_ELECTRON_UI
-# CLO3D_ELECTRON_UI
