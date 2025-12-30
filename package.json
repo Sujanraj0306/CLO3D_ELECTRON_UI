@@ -1,0 +1,19 @@
+{
+  "name": "clo3d-chatbot",
+  "version": "1.0.0",
+  "description": "CLO3D-inspired Electron chatbot interface",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "clo3d",
+    "electron",
+    "chatbot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}
